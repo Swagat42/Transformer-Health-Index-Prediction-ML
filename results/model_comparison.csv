@@ -1,0 +1,14 @@
+Model,Train_R2,Test_R2,Test_MAE,Test_RMSE
+Gradient Boosting Regression,0.814,0.7706,6.2629,8.8641
+Decision Tree Regression,0.7475,0.7641,6.2245,8.9876
+Random Forest Regression,0.9453,0.7638,6.038,8.9939
+XGBoost Regression,0.8391,0.7572,6.6131,9.1196
+AdaBoost Regression,0.7378,0.7228,7.2068,9.7434
+KNN Regression,1.0,0.5332,8.4592,12.6445
+SVR (RBF),0.8042,0.5284,8.2826,12.7089
+Elastic Net Regression,0.5029,0.5194,9.5501,12.8295
+Ridge Regression,0.5046,0.497,9.6216,13.1252
+Multiple Linear Regression,0.5046,0.4956,9.6272,13.1437
+Lasso Regression,0.4798,0.4529,10.1457,13.6888
+Simple Linear Regression,0.2054,0.2651,13.0016,15.8652
+Polynomial Regression,0.7882,-0.121,12.602,19.5938
