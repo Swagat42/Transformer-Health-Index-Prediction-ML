@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Predicting Transformer Health Index with Machine Learning
+# Predicting Transformer Health Index with Machine Learning
 
 **How much of a transformer's condition can be predicted from its oil?**<br>
 A side-by-side benchmark of 13 regression models trained on Dissolved Gas Analysis (DGA) and oil-quality measurements.
