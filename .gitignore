@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (download separately - see data/README.md)
+data/*.csv
+data/*.xlsx
+!data/sample_input.csv
+
+# Generated outputs
+models/*.joblib
+results/model_comparison_generated.csv
+results/figures/parity_generated/
+results/figures/comparison_generated.png
+predictions.csv
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
